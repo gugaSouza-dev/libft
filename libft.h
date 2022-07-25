@@ -6,7 +6,7 @@
 /*   By: gusouza- <gusouza-@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/04 18:05:53 by gusouza-          #+#    #+#             */
-/*   Updated: 2022/07/24 11:42:41 by gusouza-         ###   ########.fr       */
+/*   Updated: 2022/07/25 04:38:17 by gusouza-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,7 @@
 
 # include <stdlib.h>
 # include <unistd.h>
+# include "./ft_printf/ft_printf.h"
 
 //GNL buffer size
 # ifndef BUFFER_SIZE
